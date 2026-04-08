@@ -1,0 +1,6 @@
+# XAMPP/OS metadata
+.DS_Store
+Thumbs.db
+
+# Database exports (optional, but keep them out of root)
+*.sql
